@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Social Event" max_length="40" name="x_297567_social_ev_social_event" sizeclass="4" type="collection">
+        <element attributes="omit_sys_original=true" label="Estimated cost" max_length="20" name="u_est_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="game" label="Event type" mandatory="true" max_length="40" name="u_event_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Exposition" sequence="0" value="fair"/>
+                <element inactive_on_update="false" label="Game" sequence="1" value="game"/>
+                <element inactive_on_update="false" label="Maintenance" sequence="2" value="maintenance"/>
+                <element inactive_on_update="false" label="Recreational" sequence="3" value="recreational"/>
+            </choice>
+        </element>
+        <element label="Event flyer" max_length="65536" name="u_flyer" type="html"/>
+        <element default="4" label="Mininum availability (hours)" max_length="40" name="u_integer_7" type="integer"/>
+        <element label="Marketing verified" max_length="40" name="u_mkt_verified" type="boolean"/>
+        <element default="2" label="Participating" max_length="40" name="u_participating" read_only="true" type="integer"/>
+        <element label="Remaining days" max_length="40" name="u_remaining_days" type="glide_duration"/>
+        <element label="Social media" max_length="65536" name="u_social_media" type="html"/>
+        <element label="Travel required" max_length="40" name="u_travel_required" type="boolean"/>
+        <element label="Volunteers ready" max_length="40" name="u_volunteers_ready" type="boolean"/>
+        <element default="5" label="Volunteers required" max_length="40" name="u_volunteers_required" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="System Administration">fda87a75dbd62300e0c070adbf9619b4</dashboard>
+        <home>false</home>
+        <homepage display_value="System Administration">c6336292eb830100d4360c505206fe36</homepage>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2018-12-11 14:53:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3da87a75dbd62300e0c070adbf9619bb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>fda87a75dbd62300e0c070adbf9619b4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Social Event" source="x_297567_social_ev">38daf13ddb122300e0c070adbf961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Event">38daf13ddb122300e0c070adbf961972</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_3da87a75dbd62300e0c070adbf9619bb</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2018-12-11 14:53:35</sys_updated_on>
+        <tab display_value="New Tab">b9a87a75dbd62300e0c070adbf9619b9</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

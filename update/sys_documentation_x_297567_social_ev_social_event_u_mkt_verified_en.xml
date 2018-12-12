@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_mkt_verified" label="Marketing verified" language="en" table="x_297567_social_ev_social_event">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_mkt_verified</element>
+            <help/>
+            <hint/>
+            <label>Marketing verified</label>
+            <language>en</language>
+            <name>x_297567_social_ev_social_event</name>
+            <plural>Marketing verified</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-11 11:56:40</sys_created_on>
+            <sys_id>f220523ddb562300e0c070adbf9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Marketing verified</sys_name>
+            <sys_package display_value="Social Event" source="x_297567_social_ev">38daf13ddb122300e0c070adbf961972</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Social Event">38daf13ddb122300e0c070adbf961972</sys_scope>
+            <sys_update_name>sys_documentation_x_297567_social_ev_social_event_u_mkt_verified_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-11 11:56:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
